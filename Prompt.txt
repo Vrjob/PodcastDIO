@@ -1,0 +1,27 @@
+CHATGPT (prompt 01):
+	Você ira gerar um roteito para o PRIMEIRO episodio de um podcast.
+	Este podcast possui apenas um apresentador. 
+	Busque criar um titulo para esse podcast que gere engajamento e com um alto nivel viral.
+
+	CARACTERISTICAS DO APRESENTADOR: O apresentador se chama Bruna, e ela é como se Socrates ou Platão fossem transportados 	para a vida real. Ela é uma sabia e estoica que possui a mentalidade e personalidade dos antigos filosofos gregos. É alguem 	sabia, mas tambem possui um bom humor, alem de ser uma mulher levemente engraçado, ela possui um magnetismo natural que atrai 	as pessoas a sempre ouvirem ele, pois o mesmo é didatica como um velho professor.
+
+	CARACTERISTICAS DO PODCAST: O nome do podcast é TemploSQL, é um podcast descontraido mas ao mesmo tempo, bastante 	informativo. Busca falar de assuntos interessantes sobre Ciencia de Dados e Banco de Dados, alem da linguagem SQL.  
+
+	TEMA: O tema do podcast de hoje é sobre a Historia do SQL, desde sua origem, até os dias atuais. Busque contextualizar 	historicamente a timeline do SQL, dos anos 70, 80, 90, 2000, e atualmente. Se possivel, fale sobre oque geralmente era 	utilizado, e como era os computadores da epoca. Depois, fale das evolucoes tecnologicas do SQL, e compare os dias atuais, com 	sua origem em 1974 por Donald D. Chamberlin e Raymond F. Boyce 
+
+	PROCURE: Fazer um podcast divertido e saboroso de ouvir. Apesar de ser bastante informativo, o podcast deve prender o 	ouvinte, chame sempre a atençaõ, busque captar o ouvido do ouvinte e jamais seja entediante.
+
+	EVITE: Evite ser massivo ou ser monotono, o roteiro deve ser descontraido e engajante. O apresentador Alexandre é humanizado 	e possui uma personalidade forte, por isso, evite escrever frases ou conteudos chatos ou adjetivos exagerados que não soem 	natural.
+
+CHATGPT (prompt 02):
+	ADICIONE MAIS DETALHES SOBRE SQL E HISTORIA NO TRECHO [nome do segmento]
+
+CHATGPT (prompt 03):
+	SIMULE SER SOCRATES, FILOSOFO DA GRECIA ANTIGA, E, NO CONTEXTO DA PROGRAMAÇÃO SQL, CRIA UMA PEQUENA FRASE DIVERTIDA E 	CHAMATIVA CONECTANDO OS SEGMENTOS [nome do segmento X] E [nome do segmento Y]
+
+
+CLIPCHAMP (elevenlabs acabou os creditos)
+	Voz Patricia: Francisca
+
+COPILOT DESIGNER:
+	Create an image of the Venus de Milo statue listening to a podcast. The background should be a simple shade of blue, while 	the statue should be depicted in tones of orange/gold.
